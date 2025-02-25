@@ -2,7 +2,7 @@
 
 ![bs-banner](https://github.com/user-attachments/assets/6f3576f9-adc4-498e-a6b5-0c3a4fe42cdf)
 
-BuildSync is a dynamic online platform designed for college students to collaborate and innovate by sharing app and website ideas. With a dedicated dashboard, students can easily connect with peers, create and showcase their ideas through interactive cards, and express interest in potential collaborations.  
+BuildSync is a dynamic online platform designed for students to collaborate and innovate by sharing app and website ideas. With a dedicated dashboard, students can easily connect with peers, create and showcase their ideas through interactive cards, and express interest in potential collaborations.  
 
 The platform ensures a secure and exclusive environment, fostering a community of creativity and teamwork. Users can enjoy features like real-time notifications, user profiles, and automatic group creation to streamline collaboration.  
 
